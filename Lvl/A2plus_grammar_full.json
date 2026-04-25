@@ -1,0 +1,555 @@
+[
+  {
+    "Unit": "1A",
+    "Question": "___ do you live? - In London.",
+    "CorrectAnswer": "Where",
+    "WrongOptions": ["When", "Who", "Why"],
+    "Rule": "Where означає 'де / куди'. Коли питаємо про місце, використовуємо Where."
+  },
+  {
+    "Unit": "1A",
+    "Question": "___ kind of music do you like?",
+    "CorrectAnswer": "What",
+    "WrongOptions": ["How", "Which", "Whose"],
+    "Rule": "Для запитання 'якого виду/типу' використовується конструкція 'What kind of'."
+  },
+  {
+    "Unit": "1A",
+    "Question": "___ they watch the film yesterday?",
+    "CorrectAnswer": "Did",
+    "WrongOptions": ["Do", "Does", "Are"],
+    "Rule": "У Past Simple (минулий час) для побудови питання використовується допоміжне дієслово Did + Subject + V1."
+  },
+  {
+    "Unit": "1A",
+    "Question": "___ you happy today?",
+    "CorrectAnswer": "Are",
+    "WrongOptions": ["Do", "Did", "Is"],
+    "Rule": "З дієсловом 'be' ми не використовуємо do/does. Ставимо am/is/are перед підметом."
+  },
+  {
+    "Unit": "1B",
+    "Question": "Thomas ___ on time.",
+    "CorrectAnswer": "is always",
+    "WrongOptions": ["always is", "always", "is usually always"],
+    "Rule": "Прислівники частоти (always, usually) ставляться ПІСЛЯ дієслова 'be' (am/is/are)."
+  },
+  {
+    "Unit": "1B",
+    "Question": "We ___ pizza.",
+    "CorrectAnswer": "sometimes eat",
+    "WrongOptions": ["eat sometimes", "are sometimes eat", "sometimes eating"],
+    "Rule": "Зі звичайними дієсловами прислівники частоти ставляться ПЕРЕД дієсловом (sometimes eat)."
+  },
+  {
+    "Unit": "1B",
+    "Question": "Martina ___ in the office on Monday.",
+    "CorrectAnswer": "isn't usually",
+    "WrongOptions": ["usually isn't", "doesn't usually", "isn't"],
+    "Rule": "У запереченнях з 'be' прислівники often/usually ставляться після 'not' (isn't usually)."
+  },
+  {
+    "Unit": "1C",
+    "Question": "He ___ his homework now.",
+    "CorrectAnswer": "is doing",
+    "WrongOptions": ["does", "do", "did"],
+    "Rule": "Для дій, що відбуваються прямо зараз (now, at the moment), використовуємо Present Continuous (be + V-ing)."
+  },
+  {
+    "Unit": "1C",
+    "Question": "I ___ what you're saying.",
+    "CorrectAnswer": "understand",
+    "WrongOptions": ["am understanding", "understands", "understanding"],
+    "Rule": "State verbs (дієслова стану: understand, know, like) не вживаються в Continuous. Тільки Present Simple."
+  },
+  {
+    "Unit": "1C",
+    "Question": "The Earth ___ around the Sun.",
+    "CorrectAnswer": "moves",
+    "WrongOptions": ["is moving", "move", "moved"],
+    "Rule": "Для загальновідомих фактів та істин використовується Present Simple."
+  },
+  {
+    "Unit": "2A",
+    "Question": "I ___ in Rome for a few years.",
+    "CorrectAnswer": "lived",
+    "WrongOptions": ["live", "am living", "living"],
+    "Rule": "Для завершених дій у минулому використовується Past Simple (дієслово з закінченням -ed або 2 форма)."
+  },
+  {
+    "Unit": "2A",
+    "Question": "They ___ at work yesterday.",
+    "CorrectAnswer": "were",
+    "WrongOptions": ["was", "are", "did"],
+    "Rule": "У минулому часі для 'they/we/you' дієслово 'be' має форму 'were'."
+  },
+  {
+    "Unit": "2A",
+    "Question": "We ___ to the beach last summer.",
+    "CorrectAnswer": "went",
+    "WrongOptions": ["go", "goes", "going"],
+    "Rule": "Go — це неправильне дієслово. У Past Simple друга форма — went."
+  },
+  {
+    "Unit": "2B",
+    "Question": "I ___ go to work yesterday.",
+    "CorrectAnswer": "didn't",
+    "WrongOptions": ["wasn't", "don't", "am not"],
+    "Rule": "Для заперечення у Past Simple звичайних дієслів використовуємо didn't + V1 (базова форма)."
+  },
+  {
+    "Unit": "2B",
+    "Question": "___ you call her?",
+    "CorrectAnswer": "Did",
+    "WrongOptions": ["Do", "Was", "Were"],
+    "Rule": "Для питань у Past Simple (якщо є дія) використовуємо допоміжне слово 'Did'."
+  },
+  {
+    "Unit": "2B",
+    "Question": "He ___ at school on Monday.",
+    "CorrectAnswer": "wasn't",
+    "WrongOptions": ["didn't be", "weren't", "doesn't"],
+    "Rule": "Для дієслова 'be' ми НЕ використовуємо didn't. Заперечення утворюється як wasn't / weren't."
+  },
+  {
+    "Unit": "2C",
+    "Question": "There are ___ apples on the table.",
+    "CorrectAnswer": "some",
+    "WrongOptions": ["any", "a little", "much"],
+    "Rule": "У стверджувальних реченнях використовується 'some' (кілька, трохи)."
+  },
+  {
+    "Unit": "2C",
+    "Question": "Is there ___ milk at home?",
+    "CorrectAnswer": "any",
+    "WrongOptions": ["some", "many", "a few"],
+    "Rule": "У запитаннях і запереченнях зазвичай використовується 'any'."
+  },
+  {
+    "Unit": "2C",
+    "Question": "There are ___ lemons in the bowl.",
+    "CorrectAnswer": "a few",
+    "WrongOptions": ["a little", "any", "much"],
+    "Rule": "'A few' (кілька) використовується тільки зі злічуваними іменниками у множині (lemons)."
+  },
+  {
+    "Unit": "2C",
+    "Question": "There is ___ chocolate in the cupboard.",
+    "CorrectAnswer": "a little",
+    "WrongOptions": ["a few", "many", "any"],
+    "Rule": "'A little' (трохи) використовується тільки з незлічуваними іменниками (chocolate)."
+  },
+  {
+    "Unit": "3A",
+    "Question": "This part of town is ___ than the centre.",
+    "CorrectAnswer": "quieter",
+    "WrongOptions": ["more quiet", "quiet", "quietest"],
+    "Rule": "Для коротких прикметників вищий ступінь порівняння утворюється додаванням закінчення -er (quiet -> quieter)."
+  },
+  {
+    "Unit": "3A",
+    "Question": "My town is as ___ as yours.",
+    "CorrectAnswer": "big",
+    "WrongOptions": ["bigger", "biggest", "more big"],
+    "Rule": "У конструкції 'as ... as' (такий же ... як) прикметник не змінюється (as big as)."
+  },
+  {
+    "Unit": "3A",
+    "Question": "Cafés here are much ___ than nearby streets.",
+    "CorrectAnswer": "more expensive",
+    "WrongOptions": ["expensive", "expensiver", "most expensive"],
+    "Rule": "Для довгих прикметників (3+ склади) вищий ступінь утворюється за допомогою 'more + прикметник'."
+  },
+  {
+    "Unit": "3B",
+    "Question": "This is the ___ room in the hotel.",
+    "CorrectAnswer": "smallest",
+    "WrongOptions": ["smaller", "small", "most small"],
+    "Rule": "Найвищий ступінь для коротких прикметників утворюється за допомогою артикля 'the' та закінчення -est."
+  },
+  {
+    "Unit": "3B",
+    "Question": "August is the ___ month of the year.",
+    "CorrectAnswer": "busiest",
+    "WrongOptions": ["busyest", "more busy", "most busy"],
+    "Rule": "Якщо короткий прикметник закінчується на -y, вона змінюється на -i- і додається -est (busy -> busiest)."
+  },
+  {
+    "Unit": "3B",
+    "Question": "This museum is the ___.",
+    "CorrectAnswer": "most interesting",
+    "WrongOptions": ["interestingest", "more interesting", "interesting"],
+    "Rule": "Найвищий ступінь для довгих прикметників утворюється за допомогою 'the most + прикметник'."
+  },
+  {
+    "Unit": "3C",
+    "Question": "___ you ever eaten sushi?",
+    "CorrectAnswer": "Have",
+    "WrongOptions": ["Has", "Did", "Do"],
+    "Rule": "Present Perfect формується з have/has + V3. Для 'you' використовуємо 'Have'."
+  },
+  {
+    "Unit": "3C",
+    "Question": "I ___ to France last year.",
+    "CorrectAnswer": "went",
+    "WrongOptions": ["have been", "go", "has gone"],
+    "Rule": "Якщо є вказівка на конкретний час у минулому (last year), ми повинні використовувати Past Simple (went), а не Present Perfect."
+  },
+  {
+    "Unit": "3C",
+    "Question": "She ___ never driven a sports car.",
+    "CorrectAnswer": "has",
+    "WrongOptions": ["have", "did", "is"],
+    "Rule": "Зі словами 'ever/never' (життєвий досвід без точного часу) використовується Present Perfect. Для 'he/she/it' — 'has'."
+  },
+  {
+    "Unit": "4A",
+    "Question": "I'm ___ to see a film later.",
+    "CorrectAnswer": "going",
+    "WrongOptions": ["go", "went", "wanting"],
+    "Rule": "Для запланованих майбутніх подій використовується конструкція 'be going to + дієслово' (збиратися щось зробити)."
+  },
+  {
+    "Unit": "4A",
+    "Question": "I ___ to take a holiday in June.",
+    "CorrectAnswer": "want",
+    "WrongOptions": ["wanting", "going", "would"],
+    "Rule": "Конструкція 'want to + дієслово' використовується для вираження бажань (хочу щось зробити)."
+  },
+{
+    "Unit": "4B",
+    "Question": "A: I can't do this exercise! B: Don't worry, I ___ help you.",
+    "CorrectAnswer": "'ll",
+    "WrongOptions": ["help", "am helping", "going to"],
+    "Rule": "Використовуємо 'will' ('ll) для спонтанних рішень або пропозицій допомогти (Offers), прийнятих безпосередньо в момент розмови."
+  },
+  {
+    "Unit": "4B",
+    "Question": "What would you like to eat? - I ___ have the fish, please.",
+    "CorrectAnswer": "will",
+    "WrongOptions": ["am going to", "want", "am having"],
+    "Rule": "Коли ми робимо замовлення в ресторані або приймаємо миттєве рішення, використовуємо 'will'."
+  },
+  {
+    "Unit": "4C",
+    "Question": "You ___ wear a uniform to school. It's the rule.",
+    "CorrectAnswer": "have to",
+    "WrongOptions": ["can", "don't have to", "can't"],
+    "Rule": "'have to' використовується, коли щось є необхідним або обов'язковим (правило)."
+  },
+  {
+    "Unit": "4C",
+    "Question": "I ___ work today. It's my day off!",
+    "CorrectAnswer": "don't have to",
+    "WrongOptions": ["can't", "mustn't", "have to"],
+    "Rule": "'don't have to' означає, що щось робити не обов'язково (немає потреби), але за бажанням можна."
+  },
+  {
+    "Unit": "4C",
+    "Question": "The movie was really ___. I fell asleep.",
+    "CorrectAnswer": "boring",
+    "WrongOptions": ["bored", "bore", "boringly"],
+    "Rule": "Прикметники із закінченням -ing описують властивість речі або ситуації (який він? - нудний)."
+  },
+  {
+    "Unit": "4C",
+    "Question": "I feel very ___ after the yoga class.",
+    "CorrectAnswer": "relaxed",
+    "WrongOptions": ["relaxing", "relax", "relaxes"],
+    "Rule": "Прикметники із закінченням -ed вживаються для опису почуттів і стану людей (як я почуваюсь? - розслаблений)."
+  },
+  {
+    "Unit": "5A",
+    "Question": "She is the person ___ helped me with the project.",
+    "CorrectAnswer": "who",
+    "WrongOptions": ["which", "where", "what"],
+    "Rule": "Відносний займенник 'who' використовується для вказівки на людей."
+  },
+  {
+    "Unit": "5A",
+    "Question": "This is the machine ___ we use to make jeans.",
+    "CorrectAnswer": "which",
+    "WrongOptions": ["who", "where", "whose"],
+    "Rule": "Відносний займенник 'which' використовується для вказівки на неживі предмети (речі)."
+  },
+  {
+    "Unit": "5B",
+    "Question": "What does your brother ___? - He is tall and slim.",
+    "CorrectAnswer": "look like",
+    "WrongOptions": ["look", "like", "looks like"],
+    "Rule": "Питання 'What does he look like?' використовується, щоб запитати про зовнішність людини."
+  },
+  {
+    "Unit": "5B",
+    "Question": "You ___ tired. Did you sleep well?",
+    "CorrectAnswer": "look",
+    "WrongOptions": ["look like", "are look", "looking"],
+    "Rule": "Після 'look' ставиться прикметник (look + adjective) для опису вигляду або стану (виглядаєш втомленим)."
+  },
+  {
+    "Unit": "5C",
+    "Question": "You ___ buy that bag. It's too expensive!",
+    "CorrectAnswer": "shouldn't",
+    "WrongOptions": ["should", "don't have to", "mustn't"],
+    "Rule": "'shouldn't' використовується для надання поради не робити чогось (це погана ідея)."
+  },
+  {
+    "Unit": "5C",
+    "Question": "___ try it on before you buy it?",
+    "CorrectAnswer": "Why don't you",
+    "WrongOptions": ["Why not", "You should", "Don't you"],
+    "Rule": "Конструкція 'Why don't you + дієслово' використовується для ввічливої поради або пропозиції."
+  },
+  {
+    "Unit": "6A",
+    "Question": "I think people ___ live on Mars in the future.",
+    "CorrectAnswer": "will",
+    "WrongOptions": ["are going to", "do", "are"],
+    "Rule": "Для передбачень майбутнього (predictions), у які ми віримо або які базуються на думці (I think), використовуємо 'will'."
+  },
+  {
+    "Unit": "6A",
+    "Question": "They ___ probably pass the exam.",
+    "CorrectAnswer": "will",
+    "WrongOptions": ["won't", "do", "are"],
+    "Rule": "Слово 'probably' (ймовірно) ставиться ПІСЛЯ 'will' (will probably), але ПЕРЕД 'won't' (probably won't)."
+  },
+  {
+    "Unit": "6B",
+    "Question": "I ___ my dentist tomorrow at 10 a.m.",
+    "CorrectAnswer": "am seeing",
+    "WrongOptions": ["see", "will see", "seeing"],
+    "Rule": "Present Continuous (am/is/are + V-ing) використовується для вже запланованих і домовлених подій у майбутньому (Arrangements)."
+  },
+  {
+    "Unit": "6C",
+    "Question": "We ___ try that new restaurant tomorrow, but we're not sure yet.",
+    "CorrectAnswer": "might",
+    "WrongOptions": ["will", "are going to", "must"],
+    "Rule": "'may' або 'might' використовуються для подій, які можливо відбудуться в майбутньому (є ймовірність, але немає впевненості)."
+  },
+  {
+    "Unit": "7A",
+    "Question": "I can't drink this tea. It's ___ hot.",
+    "CorrectAnswer": "too",
+    "WrongOptions": ["enough", "very", "much"],
+    "Rule": "'too + прикметник' означає 'занадто' (більше, ніж потрібно, що створює проблему або незручність)."
+  },
+  {
+    "Unit": "7A",
+    "Question": "Is this box big ___ for all your books?",
+    "CorrectAnswer": "enough",
+    "WrongOptions": ["too", "very", "much"],
+    "Rule": "'enough' (достатньо) ставиться завжди ПІСЛЯ прикметника (adjective + enough)."
+  },
+  {
+    "Unit": "7A",
+    "Question": "There is too ___ pollution in this city.",
+    "CorrectAnswer": "much",
+    "WrongOptions": ["many", "enough", "very"],
+    "Rule": "З незлічуваними іменниками (pollution, water, time) використовуємо 'too much'."
+  },
+  {
+    "Unit": "7B",
+    "Question": "I ___ play football every day when I was a child.",
+    "CorrectAnswer": "used to",
+    "WrongOptions": ["use to", "am used to", "uses to"],
+    "Rule": "Конструкція 'used to + verb' використовується для звичок у минулому, які зараз уже не є актуальними."
+  },
+  {
+    "Unit": "7B",
+    "Question": "___ you use to live in London?",
+    "CorrectAnswer": "Did",
+    "WrongOptions": ["Do", "Were", "Had"],
+    "Rule": "У питаннях з 'used to' використовується допоміжне дієслово 'Did' (Did + subject + use to)."
+  },
+  {
+    "Unit": "7B",
+    "Question": "She ___ use to like broccoli, but now she loves it.",
+    "CorrectAnswer": "didn't",
+    "WrongOptions": ["doesn't", "wasn't", "don't"],
+    "Rule": "У заперечних реченнях про минулі звички використовуємо 'didn't use to' (без закінчення -d)."
+  },
+{
+    "Unit": "7C",
+    "Question": "I've got a dog and a cat. ___ dog's name is Cookie.",
+    "CorrectAnswer": "The",
+    "WrongOptions": ["A", "An", "-"],
+    "Rule": "Використовуємо 'the', коли говоримо про конкретну річ, яку вже згадували раніше, або коли обоє співрозмовників знають, про що мова."
+  },
+  {
+    "Unit": "7C",
+    "Question": "There's ___ armchair in my study.",
+    "CorrectAnswer": "an",
+    "WrongOptions": ["a", "the", "-"],
+    "Rule": "Використовуємо 'an' для однієї речі (коли згадуємо вперше), якщо слово починається з голосного звуку (a, e, i, o, u)."
+  },
+  {
+    "Unit": "7C",
+    "Question": "Wow, look at ___ moon! It's beautiful.",
+    "CorrectAnswer": "the",
+    "WrongOptions": ["a", "an", "-"],
+    "Rule": "Використовуємо 'the', коли в світі існує лише один такий об'єкт (the moon, the sun, the sky)."
+  },
+  {
+    "Unit": "8A",
+    "Question": "I ___ from home yesterday at 1 o'clock.",
+    "CorrectAnswer": "was working",
+    "WrongOptions": ["worked", "am working", "were working"],
+    "Rule": "Past Continuous (was/were + V-ing) використовується для дії, яка тривала в певний конкретный момент у минулому."
+  },
+  {
+    "Unit": "8A",
+    "Question": "She was running when she ___.",
+    "CorrectAnswer": "fell",
+    "WrongOptions": ["was falling", "fall", "falls"],
+    "Rule": "Якщо довга дія переривається короткою, для довгої використовуємо Past Continuous (was running), а для короткої – Past Simple (fell)."
+  },
+  {
+    "Unit": "8A",
+    "Question": "___ I was watching TV, I fell asleep.",
+    "CorrectAnswer": "While",
+    "WrongOptions": ["When", "Because", "So"],
+    "Rule": "Слово 'while' (поки, в той час як) зазвичай використовується перед довгою дією в Past Continuous."
+  },
+  {
+    "Unit": "8B",
+    "Question": "I don't cycle ___ I don't have a bike.",
+    "CorrectAnswer": "because",
+    "WrongOptions": ["so", "to", "but"],
+    "Rule": "'because' (тому що) пояснює причину дії і відповідає на питання Why?"
+  },
+  {
+    "Unit": "8B",
+    "Question": "I wasn't feeling well, ___ I stayed at home.",
+    "CorrectAnswer": "so",
+    "WrongOptions": ["because", "to", "for"],
+    "Rule": "'so' (тому, отже) вказує на результат або наслідок ситуації."
+  },
+  {
+    "Unit": "8B",
+    "Question": "She goes to the gym ___ take a yoga class.",
+    "CorrectAnswer": "to",
+    "WrongOptions": ["because", "so", "for"],
+    "Rule": "Частка 'to' + інфінітив використовується для вираження мети (щоб щось зробити)."
+  },
+  {
+    "Unit": "8C",
+    "Question": "I love ___ in my garden on Sundays.",
+    "CorrectAnswer": "relaxing",
+    "WrongOptions": ["relax", "to relaxing", "relaxed"],
+    "Rule": "Після дієслів, що виражають почуття або вподобання (love, like, enjoy, hate, don't mind), найчастіше використовується дієслово з закінченням -ing."
+  },
+  {
+    "Unit": "8C",
+    "Question": "They need ___ early tomorrow.",
+    "CorrectAnswer": "to leave",
+    "WrongOptions": ["leaving", "leave", "left"],
+    "Rule": "Після дієслів want, need, decide, hope, expect використовується частка 'to' + інфінітив."
+  },
+  {
+    "Unit": "8C",
+    "Question": "My son started ___ when he was one year old.",
+    "CorrectAnswer": "talking",
+    "WrongOptions": ["talk", "talks", "talked"],
+    "Rule": "Після дієслів start та continue можна використовувати як -ing форму, так і to + інфінітив (обидва варіанти правильні)."
+  },
+  {
+    "Unit": "9A",
+    "Question": "I have lived here ___ 5 years.",
+    "CorrectAnswer": "for",
+    "WrongOptions": ["since", "from", "in"],
+    "Rule": "У Present Perfect 'for' використовується для вказівки на період часу (how long: 5 years, 2 days, a long time)."
+  },
+  {
+    "Unit": "9A",
+    "Question": "She has worked here ___ 2022.",
+    "CorrectAnswer": "since",
+    "WrongOptions": ["for", "from", "in"],
+    "Rule": "У Present Perfect 'since' використовується для вказівки на конкретну точку в часі, коли почалася дія (since 2022, since yesterday)."
+  },
+  {
+    "Unit": "9A",
+    "Question": "I have known him since I ___ a child.",
+    "CorrectAnswer": "was",
+    "WrongOptions": ["am", "have been", "were"],
+    "Rule": "Після слова 'since' можна використовувати ціле речення в Past Simple (since I was a child)."
+  },
+  {
+    "Unit": "9B",
+    "Question": "I haven't done my homework ___.",
+    "CorrectAnswer": "yet",
+    "WrongOptions": ["already", "just", "never"],
+    "Rule": "'yet' (ще не) використовується в запереченнях і питаннях, і завжди ставиться в кінці речення."
+  },
+  {
+    "Unit": "9B",
+    "Question": "I have ___ come home a minute ago.",
+    "CorrectAnswer": "just",
+    "WrongOptions": ["yet", "already", "ever"],
+    "Rule": "'just' (щойно) означає, що дія відбулася зовсім недавно, і ставиться між have/has та дієсловом."
+  },
+  {
+    "Unit": "9B",
+    "Question": "Do you want to watch this film? - No, I have ___ seen it.",
+    "CorrectAnswer": "already",
+    "WrongOptions": ["yet", "just", "ever"],
+    "Rule": "'already' (вже) показує, що дія сталася раніше, ніж очікувалося, і ставиться між have/has та дієсловом."
+  },
+  {
+    "Unit": "9C",
+    "Question": "When I was five, I ___ ride a bike.",
+    "CorrectAnswer": "couldn't",
+    "WrongOptions": ["can't", "don't can", "am not"],
+    "Rule": "Could / couldn't – це форма минулого часу від can. Вона використовується для вираження (не)здатності щось робити в минулому."
+  },
+  {
+    "Unit": "9C",
+    "Question": "___ you speak English when you were a child?",
+    "CorrectAnswer": "Could",
+    "WrongOptions": ["Can", "Did", "Were"],
+    "Rule": "У питаннях про вміння в минулому 'Could' ставиться перед підметом (Could you...?)."
+  },
+  {
+    "Unit": "10A",
+    "Question": "If it ___, I will stay at home.",
+    "CorrectAnswer": "rains",
+    "WrongOptions": ["will rain", "raining", "rained"],
+    "Rule": "У First Conditional (реальна умова майбутнього) після 'If' завжди використовується Present Simple (rains), а не will."
+  },
+  {
+    "Unit": "10A",
+    "Question": "If I have time, I ___ call you.",
+    "CorrectAnswer": "will",
+    "WrongOptions": ["do", "am", "would"],
+    "Rule": "У головній частині First Conditional (результат) використовується will / won't + дієслово."
+  },
+  {
+    "Unit": "10A",
+    "Question": "If I am tired, I ___ go out tonight.",
+    "CorrectAnswer": "won't",
+    "WrongOptions": ["don't", "am not", "will"],
+    "Rule": "Для заперечного результату в майбутньому у First Conditional використовується won't (will not)."
+  },
+  {
+    "Unit": "Passive",
+    "Question": "Stamps ___ in the post office.",
+    "CorrectAnswer": "are sold",
+    "WrongOptions": ["sell", "is sold", "sold"],
+    "Rule": "Present Passive утворюється за допомогою am/is/are + V3 (третя форма дієслова). Stamps (множина) -> are sold."
+  },
+  {
+    "Unit": "Passive",
+    "Question": "The post office ___ in 1934.",
+    "CorrectAnswer": "was built",
+    "WrongOptions": ["built", "is built", "were built"],
+    "Rule": "Past Passive утворюється за допомогою was/were + V3. Для минулого часу і однини використовується was built."
+  },
+  {
+    "Unit": "Passive",
+    "Question": "English is ___ by millions of people.",
+    "CorrectAnswer": "spoken",
+    "WrongOptions": ["speak", "spoke", "speaks"],
+    "Rule": "У пасивному стані (Passive Voice) завжди використовується Participle II (третя форма неправильних дієслів або закінчення -ed для правильних)."
+  }
+]
